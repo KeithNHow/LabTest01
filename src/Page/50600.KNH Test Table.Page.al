@@ -1,12 +1,12 @@
 /// <summary>
-/// Page KNH Lab Book (ID 50600).
+/// Page KNH PermTest (ID 50600).
 /// </summary>
-page 50600 "KNH Lab Book"
+page 50600 "KNH Test Table"
 {
     ApplicationArea = All;
-    Caption = 'Lab Book';
+    Caption = 'Test Table';
     PageType = List;
-    SourceTable = "KNH Lab Book";
+    SourceTable = "KNH Test Table";
     UsageCategory = Lists;
 
     layout

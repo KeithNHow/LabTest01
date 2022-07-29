@@ -1,9 +1,9 @@
 /// <summary>
-/// Table KNH Lab Book (ID 50068).
+/// Table KNH Test Table (ID 50060).
 /// </summary>
-table 50600 "KNH Lab Book"
+table 50600 "KNH Test Table"
 {
-    Caption = 'Lab Book';
+    Caption = 'Test Table';
     DataClassification = ToBeClassified;
 
     fields
