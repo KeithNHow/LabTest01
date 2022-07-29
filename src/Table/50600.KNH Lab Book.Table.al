@@ -5,7 +5,6 @@ table 50600 "KNH Lab Book"
 {
     Caption = 'Lab Book';
     DataClassification = ToBeClassified;
-    TableType = Temporary;
 
     fields
     {

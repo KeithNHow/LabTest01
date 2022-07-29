@@ -18,7 +18,7 @@ pageextension 50600 "KNH Lab Book Ext" extends "Payment Methods"
 
                 trigger OnAction()
                 var
-                    LabBook: Record "KNH Lab Book" temporary;
+                    LabBook: Record "KNH Lab Book";
                 begin
                     LabBook.Reset();
                     LabBook.DeleteAll;
