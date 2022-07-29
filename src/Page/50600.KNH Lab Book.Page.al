@@ -4,7 +4,7 @@
 page 50600 "KNH Lab Book"
 {
     ApplicationArea = All;
-    Caption = 'KNH Lab Book';
+    Caption = 'Lab Book';
     PageType = List;
     SourceTable = "KNH Lab Book";
     UsageCategory = Lists;

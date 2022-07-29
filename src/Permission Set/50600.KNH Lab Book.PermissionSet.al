@@ -4,7 +4,7 @@
 permissionset 50600 "KNH Lab Book"
 {
     Assignable = true;
-    Caption = 'KNH Lab Book', MaxLength = 30;
+    Caption = 'Lab Book', MaxLength = 30;
     Permissions =
         table "KNH Lab Book" = X,
         tabledata "KNH Lab Book" = R,
