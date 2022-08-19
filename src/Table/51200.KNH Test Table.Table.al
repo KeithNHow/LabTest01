@@ -1,7 +1,7 @@
 /// <summary>
-/// Table KNH Test Table (ID 50060).
+/// Table KNH Test Table (ID 51200).
 /// </summary>
-table 50600 "KNH Test Table"
+table 51200 "KNH Test Table"
 {
     Caption = 'Test Table';
     DataClassification = ToBeClassified;

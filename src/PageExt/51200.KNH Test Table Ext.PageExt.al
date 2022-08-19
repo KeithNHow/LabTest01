@@ -1,7 +1,7 @@
 /// <summary>
-/// PageExtension KNH Lab Book Ext (ID 50600) extends Record Payment Methods.
+/// PageExtension KNH Lab Book Ext (ID 51200) extends Record Payment Methods.
 /// </summary>
-pageextension 50600 "KNH Test Table Ext" extends "Payment Methods"
+pageextension 51200 "KNH Test Table Ext" extends "Payment Methods"
 {
     actions
     {

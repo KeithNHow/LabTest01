@@ -1,7 +1,7 @@
 /// <summary>
-/// Unknown KNH PermTest (ID 50600).
+/// Unknown KNH PermTest (ID 51200).
 /// </summary>
-permissionset 50600 "KNH PermTest"
+permissionset 51200 "KNH PermTest"
 {
     Assignable = true;
     Caption = 'Test Table', MaxLength = 30;

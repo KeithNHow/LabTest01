@@ -1,7 +1,7 @@
 /// <summary>
-/// Page KNH PermTest (ID 50600).
+/// Page KNH PermTest (ID 51200).
 /// </summary>
-page 50600 "KNH Test Table"
+page 51200 "KNH Test Table"
 {
     ApplicationArea = All;
     Caption = 'Test Table';
