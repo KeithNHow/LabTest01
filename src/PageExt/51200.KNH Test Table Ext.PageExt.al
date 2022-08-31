@@ -11,6 +11,7 @@ pageextension 51200 "KNH Test Table Ext" extends "Payment Methods"
             {
                 ApplicationArea = All;
                 Caption = 'Permission Test';
+                ToolTip = 'Permission Test';
                 Image = TestDatabase;
                 Promoted = true;
                 PromotedCategory = Process;
@@ -21,7 +22,7 @@ pageextension 51200 "KNH Test Table Ext" extends "Payment Methods"
                     TestTable: Record "KNH Test Table";
                 begin
                     TestTable.Reset();
-                    TestTable.DeleteAll;
+                    TestTable.DeleteAll();
                     TestTable.Init();
                     TestTable."No." := '001';
                     TestTable.Title := 'Test';
